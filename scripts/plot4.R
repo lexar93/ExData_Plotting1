@@ -1,3 +1,5 @@
+
+
 #load data
 consumo_elec<-read.table('source data/consumo_elec.txt',header=TRUE,sep='|')
 

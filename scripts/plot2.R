@@ -9,3 +9,4 @@ plot(consumo_elec$DateTime,consumo_elec$GlobalActPower,ylab='Global Active Power
 # close device
 x<-dev.off()
 
+
